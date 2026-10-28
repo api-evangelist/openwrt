@@ -64,5 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-OpenWrt is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://openwrt.org/
+OpenWrt is an open-source project that provides a fully writable filesystem for embedded devices, primarily routers. It offers a Linux-based operating system with a package manager, allowing users to customize firmware, add features, and improve performance. The community maintains extensive documentation, guides, and a developer portal, supporting a wide range of hardware platforms. OpenWrt’s mission is to empower users with flexible, secure, and up-to-date networking solutions.
+
+**Areas:** Company · Open-Source · Firmware · Router · Embedded · Linux · Networking
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://openwrt.org/)
+- [Documentation](https://openwrt.org/docs/start)
+- [Getting started](https://openwrt.org/docs/start)
+- [Pricing](https://openwrt.org/pricing)
+- [Sign up](https://openwrt.org/login)
+- [Support](https://openwrt.org/support)
+- [Changelog](https://github.com/openwrt/openwrt/releases)
+- [Blog](https://openwrt.org/blog)
+- [Terms of service](https://openwrt.org/tos)
+- [Privacy policy](https://openwrt.org/privacy)
+- [GitHub](https://github.com/openwrt)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/openwrt/](https://apis.io/providers/openwrt/).
